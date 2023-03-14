@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt"coding" width="400px" src="https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiIaegGt7S4upfAgF4iaO0T_E1t-CXHOYsW4v04h_LkPUbB0ychPZFaQPD8vlBKuIllv0bwrufdNLBtgi9_YEUyzgb-uNStntcbF6_z0I01NQNoGIEuwGNG8F2RXQIxqSRVkoDWbUF1lLTMBJT1S3YjJeH7cnruO8XYzR_zlFZD9cc5CHztux07lTLB/w0/uber.gif">
+<img align="right" alt"coding" width="400px" src="[https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiIaegGt7S4upfAgF4iaO0T_E1t-CXHOYsW4v04h_LkPUbB0ychPZFaQPD8vlBKuIllv0bwrufdNLBtgi9_YEUyzgb-uNStntcbF6_z0I01NQNoGIEuwGNG8F2RXQIxqSRVkoDWbUF1lLTMBJT1S3YjJeH7cnruO8XYzR_zlFZD9cc5CHztux07lTLB/w0/uber.gif](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiIaegGt7S4upfAgF4iaO0T_E1t-CXHOYsW4v04h_LkPUbB0ychPZFaQPD8vlBKuIllv0bwrufdNLBtgi9_YEUyzgb-uNStntcbF6_z0I01NQNoGIEuwGNG8F2RXQIxqSRVkoDWbUF1lLTMBJT1S3YjJeH7cnruO8XYzR_zlFZD9cc5CHztux07lTLB/w0/uber.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak397&label=Profile%20views&color=0e75b6&style=flat" alt="ak397" /> </p>
 
